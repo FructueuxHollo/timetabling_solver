@@ -1,7 +1,7 @@
 # Emploi du temps automatique avec OR-Tools
 
 ## Description
-Ce projet permet de générer automatiquement un emploi du temps équilibré pour un ensemble de matières, de groupes d'élèves et de professeurs, en minimisant le nombre de cours simultanés par créneau (charge maximale). Le solveur est implémenté en Python avec la bibliothèque OR-Tools de Google, et les données d'entrée sont lues depuis deux fichiers Excel.
+Ce projet permet de générer automatiquement un emploi du temps équilibré pour un ensemble de matières, de groupes d'élèves et de professeurs, en minimisant le nombre de cours simultanés par créneau (nombre de salle de classe nécessaire). Le solveur est implémenté en Python avec la bibliothèque OR-Tools de Google, et les données d'entrée sont lues depuis deux fichiers Excel.
 
 ## Prérequis
 - Python 3.8 ou supérieur
